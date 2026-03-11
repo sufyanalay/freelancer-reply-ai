@@ -1,0 +1,65 @@
+/* SLIDER CONTAINER */
+.logo-slider {
+  width: 100%;
+  overflow: hidden;
+  margin-top: 100px !important;
+}
+
+/* TRACK */
+.logo-track {
+  display: flex;
+  gap: 80px;
+  width: max-content;
+  animation: slideLogos 25s linear infinite;
+}
+
+/* ITEM */
+.logo-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  transition: opacity 0.3s;
+}
+
+.logo-item:hover {
+  opacity: 1;
+}
+
+/* TEXT */
+.logo-text {
+  font-size: 14px;
+  color: #6b7280;
+  font-weight: 500;
+}
+
+/* BOX */
+.logo-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: #f8f6f6;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+/* IMAGE */
+.logo-img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  transform: scale(2.6);
+}
+
+/* NAME */
+.logo-name {
+  color: black;
+  font-size: 14px;
+  font-weight: 700 !important;
+}
+
+/* ANIMATION */
+@keyframes slideLogos {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
