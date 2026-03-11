@@ -8,7 +8,7 @@ Influencers paste a client message → select situation & tone → get a **ready
 
 ## ✨ Features
 
-- 🤖 AI-generated replies using Gemini API
+- 🤖 AI-generated replies using grok
 - 🎯 8+ situation types (Sponsorship, Collaboration, Fan Questions...)
 - 🎨 6 tone options (Friendly, Professional, Confident...)
 - 💎 High Ticket Mode for premium language
@@ -19,7 +19,6 @@ Influencers paste a client message → select situation & tone → get a **ready
 
 **Frontend:** React + Vite + Tailwind CSS + Framer Motion  
 **Backend:** Node.js + Express.js  
-**AI:** Google Gemini 2.0 Flash API  
 **UI Components:** shadcn/ui + Radix UI
 
 ## 📦 Installation
