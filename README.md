@@ -75,4 +75,4 @@ http://localhost:5173
 ## 👨‍💻 Built By
 
 **Sufyan Ali** — Full Stack Developer  
-Built with ❤️ for influencers and content creators
+👨‍💻 Built by Sufyan Ali — MERN Stack Developer
