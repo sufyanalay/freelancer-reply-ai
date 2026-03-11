@@ -2,26 +2,26 @@
 
 An AI-powered reply generator built for **social media influencers** to handle client messages professionally.
 
-## 🚀 What It Does
+## What It Does
 
 Influencers paste a client message → select situation & tone → get a **ready-to-send professional reply** in seconds!
 
-## ✨ Features
+##  Features
 
-- 🤖 AI-generated replies using grok
-- 🎯 8+ situation types (Sponsorship, Collaboration, Fan Questions...)
-- 🎨 6 tone options (Friendly, Professional, Confident...)
-- 💎 High Ticket Mode for premium language
-- 📋 One-click Copy & Send
-- 🕐 Reply history saved locally
+-  AI-generated replies using grok
+- 8+ situation types (Sponsorship, Collaboration, Fan Questions...)
+-  6 tone options (Friendly, Professional, Confident...)
+-  High Ticket Mode for premium language
+-  One-click Copy & Send
+-  Reply history saved locally
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:** React + Vite + Tailwind CSS + Framer Motion  
 **Backend:** Node.js + Express.js  
 **UI Components:** shadcn/ui + Radix UI
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the repo
 ```bash
@@ -57,10 +57,10 @@ npm run dev
 http://localhost:5173
 ```
 
-## 🔑 Get Free Gemini API Key
+##  Get Free  API Key
 
-1. Go to https://aistudio.google.com/apikey
-2. Sign in with Google
+1. Go to https://grok.com/apikey
+2. Sign in
 3. Click "Create API Key"
 4. Paste in `server/.env`
 
@@ -71,7 +71,6 @@ http://localhost:5173
 - **Tool** — The AI reply generator
 - **About** — Project info
 
-## 👨‍💻 Built By
+## Built By
 
 **Sufyan Ali** — Full Stack Developer  
-👨‍💻 Built by Sufyan Ali — MERN Stack Developer
